@@ -1,0 +1,9 @@
+四像素平均差值隐写
+基于博弈论 http://www.doc88.com/p-0791363226950.html
+基于循环 http://www.doc88.com/p-894572068954.html
+常见重采样算法 http://blog.csdn.net/lanergaming/article/details/49207435
+介绍几种常用的插值方法以及代码-双三次插值 http://blog.csdn.net/taoyanbian1022/article/details/8850135
+数字图像处理缩放 http://accu.cc/content/pil/resize_bicubic/
+bicubic c++   http://blog.csdn.net/linqianbi/article/details/78594019
+bilinear box triangle cubic 
+lanczos2 lanczos3 http://www.jianshu.com/p/9e481d43abe2
